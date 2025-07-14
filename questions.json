@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "subject": "Biology",
+    "question": "What is the basic unit of life?",
+    "option_a": "Atom",
+    "option_b": "Molecule",
+    "option_c": "Cell",
+    "option_d": "Tissue",
+    "correct_option": "C"
+  },
+  {
+    "id": 2,
+    "subject": "Biology",
+    "question": "What organelle is responsible for energy production?",
+    "option_a": "Ribosome",
+    "option_b": "Chloroplast",
+    "option_c": "Mitochondrion",
+    "option_d": "Golgi body",
+    "correct_option": "C"
+  }
+]
+
+
